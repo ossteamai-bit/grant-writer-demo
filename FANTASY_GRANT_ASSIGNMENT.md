@@ -1,9 +1,9 @@
 # THE MIDDLE-EARTH RESTORATION INITIATIVE
 ## Fantasy Grant Application Assignment
 
-### 🧙‍♂️ OVERVIEW FOR BOSS
+### 🧙‍♂️ OVERVIEW
 
-Welcome to the demonstration of the Grant Writing Unicorn Claude Code System! This fantasy-themed grant application assignment will showcase the full capabilities of our AI-powered grant writing workflow.
+Welcome to the demonstration of the OSS Grant Writing Claude Code System! This fantasy-themed grant application assignment will showcase the full capabilities of our AI-powered grant writing workflow.
 
 You'll take on the role of **Gandalf the Grant Writer**, applying for funding from the **Elrond Foundation for Middle-Earth Preservation** to restore the Shire after the War of the Ring.
 
@@ -364,7 +364,7 @@ The Shire suffered under Sharkey's brutal occupation - Party Tree cut down, Bags
 
 ### YOUR DELIVERABLES
 
-Using the Grant Writing Unicorn Claude Code System, you will:
+Using the OSS Claude Code System, you will:
 
 1. **Analyze the Guidelines**
    ```bash
@@ -481,227 +481,8 @@ Using the Grant Writing Unicorn Claude Code System, you will:
    - Will provide historical documentation of pre-war Shire
    - Will mentor young Hobbits in storytelling traditions
 
----
-
-## 🎬 DEMONSTRATION SCRIPT
-
-### Act 1: Analysis & Planning (Commands 1-3)
-
-**DEMONSTRATE:**
-1. **Guidelines Analysis**
-   - Show how system extracts all requirements
-   - Identifies scoring criteria
-   - Flags key dates and restrictions
-   - Highlights keywords
-
-2. **Narrative Skeleton Creation**
-   - Automated outline generation
-   - Scoring criteria inserted
-   - Brainstorming prompts added
-   - Question list for kickoff meeting
-
-3. **Budget Development**
-   - Template population
-   - Automatic calculations
-   - Match strategy development
-   - Budget narrative framework
-
-**TIME:** 15 minutes
-
----
-
-### Act 2: Content Creation (Commands 4-5)
-
-**DEMONSTRATE:**
-4. **Narrative Writing**
-   - Section-by-section generation
-   - Persuasive language techniques
-   - Data integration
-   - Strengths-based approach (80/20 rule)
-   - Community voice inclusion
-   - Urgency establishment
-
-5. **Attachment Preparation**
-   - Letter of support templates
-   - Resolution drafting
-   - Document formatting
-
-**TIME:** 20 minutes
-
----
-
-### Act 3: Quality & Package (Commands 6-7)
-
-**DEMONSTRATE:**
-6. **Quality Assurance**
-   - Completeness verification
-   - Scoring criteria coverage check
-   - Word count compliance
-   - Formatting validation
-   - Budget cross-reference
-
-7. **Application Assembly**
-   - File organization
-   - Naming convention application
-   - Submission package creation
-   - Final checklist
-
-**TIME:** 10 minutes
-
----
-
-## ✨ SUCCESS METRICS
-
-At the end of this demonstration, your boss should see:
-
-✅ **Complete grant application package** ready for submission  
-✅ **Professional-quality narrative** (15 pages, properly formatted)  
-✅ **Detailed budget** with narrative justification  
-✅ **All required attachments** prepared and formatted  
-✅ **Quality assurance report** showing 100% compliance  
-✅ **Submission package** organized and ready to upload
-
-**Total Time Investment:** ~45 minutes (vs. 40-60 hours manual work)
-
-**Key Differentiators:**
-- 🚀 **Speed:** 95% faster than traditional process
-- 🎯 **Quality:** Follows proven Meredith Noble methodology
-- 🔄 **Consistency:** Every application meets high standards
-- 📊 **Data-Driven:** Strategic grant selection (20%+ success rate target)
-- 🤝 **Collaborative:** Built-in team coordination
-- 📈 **Scalable:** Handle multiple applications simultaneously
-
----
-
-## 💡 BONUS FEATURES TO HIGHLIGHT
-
-1. **Grant Research Funnel**
-   - Show how system would have identified this opportunity
-   - Demonstrate competitiveness calculation (9.5% - would normally reject!)
-   - Exception: Special priority for Shire = justified pursuit
-
-2. **Funding Strategy**
-   - Generate multi-year funding plan for Shire Restoration Society
-   - Identify additional opportunities
-   - Sequence applications strategically
-
-3. **Version Control & Tracking**
-   - Show draft progression (v1, v2, v3...)
-   - Track changes and improvements
-   - Team collaboration features
-
-4. **Learning & Improvement**
-   - Analyze what made past successful applications work
-   - Apply lessons to this application
-   - Build organizational knowledge base
-
----
-
-## 🏆 THE BIG REVEAL
-
-After completing the demonstration, reveal:
-
-**Traditional Grant Writing Process:**
-- ⏰ 40-60 hours of work
-- 😰 High stress and last-minute rush
-- ❌ Easy to miss requirements
-- 🎯 Inconsistent quality
-- 💸 $2,000-3,000 in labor costs
-
-**With Grant Writing Unicorn System:**
-- ⏰ 45 minutes for complete application
-- 😌 Calm, systematic process
-- ✅ Zero requirements missed
-- 🎯 Consistently high quality
-- 💸 Minimal labor investment
-
-**ROI Calculation:**
-```
-Manual: 50 hours × $50/hr = $2,500 cost
-System: 45 minutes × $50/hr = $37.50 cost
-SAVINGS: $2,462.50 per application
-
-Expected Value:
-$90,000 award × 9.5% success rate = $8,550
-Cost: $37.50
-Net Expected Value: $8,512.50 (vs. $6,050 manual)
-```
-
-**The Unicorn Advantage:** 🦄
-Not just faster - *strategically better*. The system would have flagged this grant's low 9.5% success rate, but recognized the special priority for Shire projects as justification to proceed.
-
----
-
-## 🎭 CHARACTER DEVELOPMENT (For Fun!)
-
-### Additional Characters You Can Reference:
-
-**Supporting Cast:**
-- **Fredegar "Fatty" Bolger** - Local Hero, organizes volunteer crews
-- **Farmer Maggot** - Agricultural advisor, wise in crop matters
-- **The Gaffer** - Samwise's father, remembers "the old ways"
-- **Lobelia Sackville-Baggins** - Reformed troublemaker, fierce advocate for Hobbiton
-- **Tom Bombadil** - Environmental consultant (if the rivers need de-cursing)
-
-**Quotes You Can Use:**
-- "The Shire must be saved! But it need not be saved for me. Even if we fail, the Shire will live on!" (Adapt from Frodo)
-- "I can't carry the Ring, but I can carry you - and this community forward!" (Adapt from Sam)
-- "One does not simply walk into a grant application..." (Adapt from Boromir)
-
----
-
-## 📝 EVALUATION RUBRIC FOR BOSS
-
-### Technical Excellence (40 points)
-- [ ] Guidelines fully analyzed (10 pts)
-- [ ] Narrative skeleton complete and logical (10 pts)
-- [ ] Budget accurate and well-justified (10 pts)
-- [ ] All attachments properly formatted (10 pts)
-
-### Persuasive Quality (30 points)
-- [ ] Establishes catastrophic urgency (10 pts)
-- [ ] Uses data effectively (8 pts)
-- [ ] Community voices prominent (7 pts)
-- [ ] Strengths-based approach evident (5 pts)
-
-### Strategic Thinking (20 points)
-- [ ] Would normally reject based on 9.5% success rate (5 pts)
-- [ ] But correctly identifies special priority exception (5 pts)
-- [ ] Budget strategically leverages partnerships (5 pts)
-- [ ] Sustainability plan is realistic (5 pts)
-
-### System Demonstration (10 points)
-- [ ] All commands executed successfully (5 pts)
-- [ ] Workflow is intuitive and efficient (3 pts)
-- [ ] Value proposition is clear (2 pts)
-
-**TOTAL: 100 points**
-
-**Scoring:**
-- 90-100: "By Elbereth! This changes everything!"
-- 80-89: "Most impressive, Mithrandir."
-- 70-79: "Shows promise, needs refinement."
-- Below 70: "Perhaps stick to fighting Balrogs?"
-
----
-
-## 🎉 CONCLUSION
-
-This fantasy grant application demonstrates the Grant Writing Unicorn Claude Code System's ability to:
-
-✨ **Transform grant writing from chaotic scramble to systematic excellence**  
-✨ **Reduce time investment by 95% while improving quality**  
-✨ **Apply proven Meredith Noble methodology consistently**  
-✨ **Enable strategic, data-driven grant selection**  
-✨ **Scale organizational capacity without adding headcount**
-
-**The magic isn't in the fantasy - it's in the system!** 🦄
-
+**The magic isn't in the fantasy - it's in the system!**
 Whether you're restoring the Shire or securing commercial fishing grants for Alaska communities, this system brings the same level of strategic excellence and efficiency to every application.
-
----
-
-**Now go forth and demonstrate the power of AI-enhanced grant writing!**
 
 *"All we have to decide is what to do with the time that is given to us."* - Gandalf (also applies to grant deadlines!)
 
